@@ -24,17 +24,17 @@ Run the script in a Bash shell to get a detailed report of the system and user i
 1. Download or clone this repository from GitHub.
 2. Navigate to the directory containing the userstat.sh script.
 3. Ensure the script has execution permissions. You can set this with the following command:
-\```shell
+```shell
 chmod +x userstat.sh
-\```
+```
 
 ---
 
 ## Running the Script
 To run the script, use the following command in your terminal:
-\```shell
-./userstat
-\```
+```shell
+./userstat.sh
+```
 
 ---
 
